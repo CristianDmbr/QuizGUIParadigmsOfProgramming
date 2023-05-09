@@ -1,0 +1,68 @@
+{
+    "question3": [
+        "The first atomic bomb attack was on which city?",
+        "Adolf Hitler was the leader of which party?",
+        "Who invented the lightbulb?",
+        "Julius Caesar was the emperor of what empire?",
+        "The first fireworks were invented in the 7th century in what country?",
+        "What was the ancient Egyptian writing system called?",
+        "The modern-day city of Istanbul was known by what name in the 13th century?",
+        "Marie Curie is credited with developing the theory of what?"
+ ],
+"answer3" : [
+    1,
+    1,
+    3,
+    2,
+    1,
+    1,
+    3,
+    2
+],
+"options3": [
+
+["Hiroshima",
+ "Nagasaki",
+ "New-York",
+ "Delhi"
+],
+["Nazi",
+ "Democratic",
+ "Both",
+ "None"
+],
+["Neil Amstrong",
+ "Buzz Aldrin",
+ "Thomas Edison",
+ "George Washington"
+],
+["Persian Empire",
+ "The Roman Empire",
+ "Ethiopian Empire",
+ "Hellenistic Empire"
+],
+["China",
+    "Japan",
+    "Italy",
+    "France"
+   ],
+   ["Hieroglyphics",
+    "Proto-writing",
+    "Cuneiform",
+    "Hieratic"
+   ],
+   ["Istanbul",
+    "Rome",
+    "Constantinople",
+    "Mesopotamia"
+   ],
+   ["Gravity",
+    "Radiation",
+    "Electricity",
+    "Magnetism"
+   ]
+
+
+
+]
+}

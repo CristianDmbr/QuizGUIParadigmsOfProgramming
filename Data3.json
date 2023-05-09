@@ -1,0 +1,40 @@
+{
+    "question2": [
+        " What is the first step in the software development lifecycle?",
+        " What is the major drawback of the Spiral Model?",
+        " What does RAD stand for?",
+        " What does the study of an existing system refer to?"
+ ],
+"answer2" : [
+    4,
+    2,
+    4,
+    3
+],
+"options2": [
+
+["System Testing",
+ "Coding",
+ "System Design",
+ "Preliminary Investigation and Analysis"
+],
+["Additional functionalities are added later on",
+ "Doesn't work well for smaller projects",
+ "Higher amount of risk analysis",
+ "All of the above"
+],
+["All of teh above",
+ "None of the above",
+ "Rapid Application Document",
+ "Rapid Application Development"
+],
+["Case scenario",
+ "Details of DFD",
+ "System Analysis",
+ "Feasibility Study"
+]
+
+
+
+]
+}

@@ -1,0 +1,81 @@
+{
+    "question": [
+        " How much is 5! ?",
+        " The result of (-3)*(-5)+14:(-7) is equal to:",
+        " What is square root of 16?",
+        " Which is the smallest 3 digit natural number with distinct digets?",
+        " Which is the greatest divisor of 36 and 54?",
+        " What does represent a Scalen Triangle?",
+        " Which of the following statements is true about -3 and -7?",
+        " How many tens make 50?",
+        " Halve 24 is?",
+        " How many days are in 2 weeks?"
+ ],
+"answer" : [
+    4,
+    2,
+    3,
+    2,
+    1,
+    1,
+    2,
+    3,
+    2,
+    1
+],
+"options": [
+
+["5",
+ "25",
+ "100",
+ "120"
+],
+["12",
+ "13",
+ "18",
+ "10"
+],
+["3",
+ "12",
+ "4",
+ "6"
+],
+["101",
+ "102",
+ "012",
+ "100"
+],
+["9",
+ "36",
+ "3",
+ "1"
+],
+["Triangle with no equal sides",
+    "Triangle with 3 equal sides",
+    "Triangle with 2 equal sides",
+    "Triangle with one agle 90 degrees"
+   ],
+   ["-3 < -7",
+    "-3 > -7",
+    "-3 = -7",
+    "-3 = -(-7)"
+   ],
+   ["10",
+    "5.10",
+    "5",
+    "0"
+   ],
+   ["0.12",
+    "12",
+    "48",
+    "4.8"
+   ],
+   ["14",
+    "21",
+    "2",
+    "12"
+
+
+]
+]
+}
